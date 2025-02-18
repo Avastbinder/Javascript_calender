@@ -1,6 +1,6 @@
 # Overview
 
-To run the project, open index.html in a web browser like Google Chrome
+To run the project, open index.html in a web browser like Google Chrome.
 
 A simple Javascript calender planner. Add events to a month calender in order to keep track of your time. Calender also shows the current day to make planning easier.
 
